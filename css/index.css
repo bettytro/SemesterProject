@@ -257,10 +257,13 @@ nav {
 #research {
     background-image: url(../images/manlookinginmicroscope.webp);
     background-size: cover;
+    background-color: #000;
+
 }
 #teacher {
     background-image: url(../images/skeleton.webp);
     background-size: cover;
+    background-color: #000;
 }
 .readmore {
     width: 130px;
